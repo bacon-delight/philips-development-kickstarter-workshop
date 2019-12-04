@@ -96,7 +96,7 @@
 
 		&__link {
 			display: inline-block;
-			margin: 0rem .8rem;
+			margin: .5rem .2rem;
 
 			@media screen and (max-width: 768px) {
 				display: block;
