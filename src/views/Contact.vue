@@ -4,7 +4,7 @@
 		<div class="center-container">
 			<h1 class="center-container__header">Contact <span class="center-container__header--outline">Us</span></h1>
 			<div class="center-container__input-box">
-				<img width="25%" height="25%" src="..\assets\friend.jpg"/>
+				<img width="25%" height="25%" src="../assets/friend.jpg"/>
 			</div>
 			<div class="center-container__input-box">
 				<input class="center-container__input" type="text" placeholder="Name" />
